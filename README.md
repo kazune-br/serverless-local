@@ -80,6 +80,7 @@ $ aws --endpoint-url=http://localhost:4574 \
       lambda delete-function --function-name f1
 ```
 
+
 ## WIP
 ```
 # Deploy時にエラーが起こる
