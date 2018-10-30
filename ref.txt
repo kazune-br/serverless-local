@@ -1,4 +1,0 @@
-#1: serverless-localstack
-https://www.npmjs.com/package/serverless-localstack
-
-#2:
